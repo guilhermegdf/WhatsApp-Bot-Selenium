@@ -1,0 +1,89 @@
+1539279467821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SWEETH~1\\AppData\\Local\\Temp\\rust_mozprofile.8o1hrOLIvL1e"
+1539279472291	Marionette	INFO	Listening on port 51025
+1539279472769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539279472801	Marionette	DEBUG	[4294967297] Frame script loaded
+1539279472802	Marionette	DEBUG	[4294967297] Frame script registered
+1539279472812	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539279473146	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1539279473933	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://pythonclub.com.br/
+1539279476587	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://pythonclub.com.br/
+1539279476604	Marionette	INFO	Stopped listening on port 51025
+[Parent 8452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8956, Chrome_ChildThread] WARNING: pipe[Child 7408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7408, Chrome_ChildThread] W[Parent 8452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2336[GPU 2520
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539279736071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SWEETH~1\\AppData\\Local\\Temp\\rust_mozprofile.aQ6O2Y0n8FHo"
+1539279739515	Marionette	INFO	Listening on port 51126
+1539279740008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539279740065	Marionette	DEBUG	[6442450945] Frame script loaded
+1539279740066	Marionette	DEBUG	[6442450945] Frame script registered
+1539279740076	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539279740387	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1539279740903	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://pythonclub.com.br/
+1539279744516	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://pythonclub.com.br/
+[Child 6048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6048, Chrome_ChildThre[Child 6680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6680, Chrome_ChildThrea[Parent 8728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539279977087	Marionette	INFO	Stopped listening on port 51126
+[GPU 45
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539282543223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SWEETH~1\\AppData\\Local\\Temp\\rust_mozprofile.2kVYTpJyXg94"
+1539282551117	Marionette	INFO	Listening on port 49804
+1539282551449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539282551501	Marionette	DEBUG	[4294967297] Frame script loaded
+1539282551527	Marionette	DEBUG	[4294967297] Frame script registered
+1539282552085	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539282552585	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1539282553653	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://pythonclub.com.br/
+1539282556314	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://pythonclub.com.br/
+[Parent 8668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom1539282649574	Marionette	INFO	Listening on port 49887
+1539282649807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539282649828	Marionette	DEBUG	[6442450945] Frame script loaded
+1539282649829	Marionette	DEBUG	[6442450945] Frame script registered
+1539282649839	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539282650165	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1539282650748	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://pythonclub.com.br/
+1539282654178	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://pythonclub.com.br/
+[Parent 9404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4776, Chrome_1539282745756	Marionette	INFO	Stopped listening on port 49887
+[GPU 10000, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539282751306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SWEETH~1\\AppData\\Local\\Temp\\rust_mozprofile.C297I0m2w4YT"
+1539282754525	Marionette	INFO	Listening on port 49970
+1539282754640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539282754693	Marionette	DEBUG	[6442450945] Frame script loaded
+1539282754695	Marionette	DEBUG	[6442450945] Frame script registered
+1539282754711	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539282755064	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1539282756251	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://pythonclub.com.br/
+1539282758527	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://pythonclub.com.br/
+1539282832890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SWEETH~1\\AppData\\Local\\Temp\\rust_mozprofile.juYyleXZvwF5"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1539282837147	Marionette	INFO	Listening on port 50060
+1539282837390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539282837449	Marionette	DEBUG	[6442450945] Frame script loaded
+1539282837450	Marionette	DEBUG	[6442450945] Frame script registered
+1539282837469	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539282837941	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1539282839346	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://pythonclub.com.br/
+1539282841645	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://pythonclub.com.br/
+1539283412796	Marionette	INFO	Stopped listening on port 50060
+[GPU 9176, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
